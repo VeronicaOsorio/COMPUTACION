@@ -1,0 +1,3 @@
+[submodule "microwebAppBase"]
+	path = microwebAppBase
+	url = https://github.com/omondragon/microwebAppBase
